@@ -18,7 +18,12 @@
     },
     "autoload": {
         "psr-0": {
-            "Svecon\\": "src/"
+            "Svecon\\Ares\\": "Ares/",
+            "Svecon\\Backup\\": "Backup/",
+            "Svecon\\Base\\": "Base/",
+            "Svecon\\Currencies\\": "Currencies/",
+            "Svecon\\Nette\\": "Nette/",
+            "Svecon\\Utility\\": "Utility/",
         }
     }
 }
