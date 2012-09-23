@@ -23,7 +23,7 @@
             "Svecon\\Base\\": "Base/",
             "Svecon\\Currencies\\": "Currencies/",
             "Svecon\\Nette\\": "Nette/",
-            "Svecon\\Utility\\": "Utility/",
+            "Svecon\\Utility\\": "Utility/"
         }
     }
 }
