@@ -1,0 +1,19 @@
+{
+    "name": "svecon/base",
+    "type": "library",
+    "description": "My personal set of useful tools",
+    "keywords": ["tools","personal"],
+    "homepage": "https://github.com/svecon/Svecon",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ondřej Švec",
+            "email": "developer@svecon.cz",
+            "homepage": "http://svecon.cz/",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
