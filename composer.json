@@ -1,5 +1,5 @@
 {
-    "name": "svecon",
+    "name": "svecon/base",
     "type": "library",
     "description": "My personal set of useful tools",
     "keywords": ["tools","personal"],
